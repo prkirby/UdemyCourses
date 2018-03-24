@@ -1,0 +1,3 @@
+export const EMAIL_CHANGED = 'EMAIL_CHANGED';
+export const PASS_CHANGED = 'PASS_CHANGED';
+export const SUBMIT_AUTH_FORM = 'SUBMIT_AUTH_FORM';
